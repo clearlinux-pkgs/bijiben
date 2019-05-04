@@ -15,7 +15,6 @@ libical.so.3
 libjavascriptcoregtk-4.0.so.18
 libpango-1.0.so.0
 libpangocairo-1.0.so.0
-libpthread.so.0
 libtracker-sparql-2.0.so.0
 libuuid.so.1
 libwebkit2gtk-4.0.so.37
