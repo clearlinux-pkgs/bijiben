@@ -1,5 +1,8 @@
-3.32.1
+3.33.92
 evolution-dev
 gnome-online-accounts-dev
 pkgconfig(goa-1.0)
 pkgconfig(libecal-1.2)
+pkgconfig(libecal-2.0)
+pkgconfig(webkit2gtk-4.0)
+webkitgtk-dev
