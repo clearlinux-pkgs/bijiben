@@ -1,8 +1,8 @@
-3.34.2
-evolution-dev
+3.36.0
 gnome-online-accounts-dev
+libhandy-dev
 pkgconfig(goa-1.0)
-pkgconfig(libecal-1.2)
 pkgconfig(libecal-2.0)
+pkgconfig(libhandy-0.0)
 pkgconfig(webkit2gtk-4.0)
 webkitgtk-dev
