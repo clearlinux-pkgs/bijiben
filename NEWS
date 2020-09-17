@@ -1,89 +1,158 @@
-Overview of changes in 3.36.3
-=============================
+Overview of changes in 3.37.92
+==============================
+
+Translations
+* da (Alan Mortensen)
+* de (Mario Blättermann)
+* hu (Balázs Meskó)
+* ko (Seong-ho Cho)
+* pt (Juliano Camargo)
+* sk (Dušan Kazik)
+* sv (Anders Jonsson)
+
+Overview of changes in 3.37.91
+==============================
+
+* Changed default note color to GNOME Blue
+* Improved help pages (Piotr Drąg)
+* Improved code quality (Alberto Fanjul, Stefano Facchini)
+
+Translations
+* cs (Marek Černocký)
+* de (Stephan Woidowski)
+* fi (Jiri Grönroos)
+* hr (Goran Vidović)
+* ja (sicklylife)
+* nl (Nathan Follens)
+* pl (Piotr Drąg)
+* sr (Марко Костић)
+
+Overview of changes in 3.37.90
+==============================
 
 * Added Central Kurdish translation (Jwtiyar Nariman)
-* Fixed issue in main view paging that was preventing to show more than 48 notes
+* Added Tamil translation (அருள்)
+* Changed paste behavior in note view to "text-only" mode
+* Enabled WebKit sandboxing (Diego Escalante Urrelo)
+* Fixed issue in main view paging that was preventing to load more than 48 notes
+* Implemented main view UI redesign (Allan Day, Tobias Bernard, Isaque Galdino)
+* Improved flatpak to meson when building GOA and EDS (Georges Basile Stavracas Neto)
+* Improved help pages (Pranali Deshmukh, scootergrisen, Yuri Chornoivan)
+* Ported to Tracker 3 (Carlos Garnacho)
+* Removed libgd dependancy
+* Removed option to change note in Trash bin
 
 Translations
+* ca (Gil Forcada, Jordi Mas)
 * ckb (Jwtiyar Nariman)
-
-Overview of changes in 3.36.2
-=============================
-
-* Added Ukrainian translation to help (Yuri Chornoivan)
-* Fixed memory leak in OwnCloud provider (Mohammed Sadiq)
-* Fixed warnings about signal handler when exiting
-
-Translations
+* da (scootergrisen)
+* el (Efstathios Iosifidis)
+* eu (Asier Sarasua Garmendia)
+* eo (Carmen Bianca BAKKER)
+* fr (Alexandre Franke)
+* fur (Fabio Tomat)
+* gl (Fran Dieguez)
+* id (Kukuh Syafaat)
+* ja (sicklylife)
 * kk (Baurzhan Muftakhidinov)
+* lt (Aurimas Černius)
+* pt_BR (Rafael Fontenelle)
+* ro (Florentina Mușat)
+* sl (Matej Urbančič)
+* ta (அருள்)
 * uk (Yuri Chornoivan)
+* zh_CN (Boyuan Yang)
 
-Overview of changes in 3.36.1
+Overview of changes in 3.37.1
 =============================
 
+* Added "Create New Note" shortcut to Desktop Actions (Felipe Borges)
+* Added the last missing shortcuts (F10, CTRL+W, CTRL+Q) (Jonathan Kang, Isaque Galdino)
+* Fixed memory leak when parsing Own/NextCloud folder (Mohammed Sadiq)
 * Fixed notes behavior when in Trash (Jonathan Kang, Isaque Galdino)
 
 Translations
 * cs (Marek Černocký)
+* es (Daniel Mustieles)
+* fa (Danial Behzadi)
+* fr (Charles Monzat)
 * he (Yosef Or Boczko)
 * id (Andika Triwidada)
 * nb (Kjartan Maraas)
 * ro (Daniel Șerbănescu)
 * sk (Dušan Kazik)
-* uk (Daniel Korostil)
+* sv (Anders Jonsson)
+* tr (Emin Tufan Çetin)
+* uk (Daniel Korostil, Yuri Chornoivan)
+* zh_CN (Dz Chen)
 * zh_TW (Cheng-Chia Tseng)
 
-Overview of changes in 3.36.0
-=============================
-
-* Added Malay translation (Umarzuki Bin Mochlis Moktar)
-* Changed default colors to use GNOME palette
-* Improved shortcuts (Sabri Ünal, João Vieira)
-* Fixed issue when pasting text to new notes
-* Moved note title to the HeaderBar
-* Reduced minimum window width
-* Updated help screenshots (Andre Klapper, scootergrisen, Piotr Drąg)
+Overview of changes in 3.35.92
+==============================
 
 Translations
-* ca (Jordi Mas)
+
 * cs (Marek Černocký)
-* da (Alan Mortensen, Ask Hjorth Larsen)
+* da (Alan Mortensen)
 * de (Tim Sabsch)
-* el (Efstathios Iosifidis)
-* es (Daniel Mustieles)
-* eu (Asier Sarasua Garmendia)
-* fa (Danial Behzadi)
 * fi (Jiri Grönroos)
 * fr (Guillaume Bernard)
 * fur (Fabio Tomat)
 * gl (Fran Dieguez)
 * hr (Milo Ivir)
 * hu (Balázs Úr)
-* id (Andika Triwidada, Kukuh Syafaat)
 * it (Gianvito Cavasoli)
-* ja (sicklylife)
 * ko (Seong-ho Cho)
 * lt (Aurimas Černius)
-* ms (Umarzuki Bin Mochlis Moktar)
 * nl (Nathan Follens)
 * pl (Piotr Drąg)
 * pt_BR (Rafael Fontenelle)
-* sk (Dušan Kazik)
 * sl (Matej Urbančič)
 * sr (Марко Костић)
 * sv (Anders Jonsson)
-* tr (Sabri Ünal, Emin Tufan Çetin)
 * uk (Daniel Korostil)
-* zh_TW (Yi-Jyun Pan)
 
-Overview of changes in 3.34.2
+Overview of changes in 3.35.91
 ==============================
+
+* Added Malay translation (Umarzuki Bin Mochlis Moktar)
+* Fixed and added many shortcuts (Sabri Ünal, João Vieira)
+* Updated help screenshots (Andre Klapper, scootergrisen, Piotr Drąg)
 
 Translations
-* ms (Umarzuki Bin Mochlis Moktar)
 
-Overview of changes in 3.34.1
-==============================
+* el (Efstathios Iosifidis)
+* es (Daniel Mustieles)
+* eu (Asier Sarasua Garmendia)
+* fa (Danial Behzadi)
+* hu (Balázs Úr)
+* gl (Fran Dieguez)
+* id (Andika Triwidada, Kukuh Syafaat)
+* ja (sicklylife)
+* lt (Aurimas Černius)
+* ms (Umarzuki Bin Mochlis Moktar)
+* pl (Piotr Drąg)
+* sr (Марко Костић)
+* sv (Anders Jonsson)
+* tr (Sabri Ünal, Emin Tufan Çetin)
+
+Overview of changes in 3.35.2
+=============================
+
+* Changed default colors to use GNOME palette
+* Fixed paste event handler so Notes knows when that happens
+* Reduced minimum window width
+* Changed note title to headerbar
+* GTimeVal Deprecation
+
+Translations
+
+* gl (Fran Dieguez)
+
+Overview of changes in 3.35.1
+=============================
+
+* Added new GNOME Notes Nightly icon (Jakub Steiner)
 
 Translations
 * ca (Jordi Mas)
@@ -91,7 +160,6 @@ Translations
 * fa (Danial Behzadi)
 * sk (Dušan Kazik)
 * zh_TW (Yi-Jyun Pan)
-
 
 Overview of changes in 3.34.0
 =============================
