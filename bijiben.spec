@@ -4,7 +4,7 @@
 #
 Name     : bijiben
 Version  : 3.38.0
-Release  : 13
+Release  : 14
 URL      : https://download.gnome.org/sources/bijiben/3.38/bijiben-3.38.0.tar.xz
 Source0  : https://download.gnome.org/sources/bijiben/3.38/bijiben-3.38.0.tar.xz
 Summary  : No detailed summary available
