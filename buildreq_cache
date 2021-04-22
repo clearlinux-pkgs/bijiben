@@ -1,8 +1,9 @@
-3.38.0
+40.0
+curl-dev
 gnome-online-accounts-dev
-libhandy-dev
 pkgconfig(goa-1.0)
+pkgconfig(libcurl)
 pkgconfig(libecal-2.0)
-pkgconfig(libhandy-0.0)
+pkgconfig(libhandy-1)
 pkgconfig(webkit2gtk-4.0)
 webkitgtk-dev

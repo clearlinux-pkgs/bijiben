@@ -1,5 +1,6 @@
 libc.so.6
 libcairo.so.2
+libcurl.so.4
 libecal-2.0.so.1
 libedataserver-1.2.so.25
 libgcc_s.so.1
@@ -9,12 +10,12 @@ libglib-2.0.so.0
 libgoa-1.0.so.0
 libgobject-2.0.so.0
 libgtk-3.so.0
-libhandy-0.0.so.0
+libhandy-1.so.0
 libical-glib.so.3
 libjavascriptcoregtk-4.0.so.18
+libjson-glib-1.0.so.0
 libpango-1.0.so.0
 libpangocairo-1.0.so.0
 libtracker-sparql-3.0.so.0
-libuuid.so.1
 libwebkit2gtk-4.0.so.37
 libxml2.so.2
