@@ -4,7 +4,7 @@
 #
 Name     : bijiben
 Version  : 40.1
-Release  : 27
+Release  : 28
 URL      : https://download.gnome.org/sources/bijiben/40/bijiben-40.1.tar.xz
 Source0  : https://download.gnome.org/sources/bijiben/40/bijiben-40.1.tar.xz
 Summary  : No detailed summary available
@@ -93,7 +93,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1663961477
+export SOURCE_DATE_EPOCH=1664139953
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
