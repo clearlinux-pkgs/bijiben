@@ -4,7 +4,7 @@
 #
 Name     : bijiben
 Version  : 40.1
-Release  : 28
+Release  : 29
 URL      : https://download.gnome.org/sources/bijiben/40/bijiben-40.1.tar.xz
 Source0  : https://download.gnome.org/sources/bijiben/40/bijiben-40.1.tar.xz
 Summary  : No detailed summary available
